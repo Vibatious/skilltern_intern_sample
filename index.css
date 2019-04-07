@@ -1,0 +1,31 @@
+.container{
+	/*align-items:center;*/
+	vertical-align: middle;
+	padding: 8% 10% 8% 10%;
+}
+h1 {
+  color: black;
+  text-align: center;
+  padding-bottom: 60px;
+  font-weight: 800;
+
+
+}
+.col-lg-4{
+	margin: 5px;
+	background-color: white;
+	/*z-index: */
+	border-radius: 5px;
+	box-shadow: 0 5px 8px rgba(0,0,0,0.2);
+	align-content: center;
+	text-align: center;
+	width: 32%;
+		/*align-items: center;*/
+	vertical-align: middle;
+}
+.desc{
+	text-align: center;
+	font-size: .75em;
+	color: grey;
+
+}
